@@ -61,7 +61,7 @@ Given a set of 2 images of the same object from two different camera angles, thi
 
 * Epipolar Lines on rectified images
 
-![alt text](/output/out5.png)
+![alt text](/output/out5.jpg)
 
 * Disparity Map (Grayscale and Heatmap)
 
