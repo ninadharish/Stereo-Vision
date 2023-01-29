@@ -49,31 +49,31 @@ Given a set of 2 images of the same object from two different camera angles, thi
 
 * Fundamental and Essential Matrix
 
-![alt text](/output/out2.jpg)
+![alt text](/output/out2.png)
 
 * Rotation Matrices
 
-![alt text](/output/out3.jpg)
+![alt text](/output/out3.png)
 
 * Translation and Homography Matrices
 
-![alt text](/output/out4.jpg)
+![alt text](/output/out4.png)
 
 * Epipolar Lines on rectified images
 
-![alt text](/output/out5.jpg)
+![alt text](/output/out5.png)
 
 * Disparity Map (Grayscale and Heatmap)
 
-![alt text](/output/out6.jpg)
+![alt text](/output/out6.png)
 
-![alt text](/output/out7.jpg)
+![alt text](/output/out7.png)
 
 * Depth Map (Grayscale and Heatmap)
 
-![alt text](/output/out8.jpg)
+![alt text](/output/out8.png)
 
-![alt text](/output/out9.jpg)
+![alt text](/output/out9.png)
 
 
 
