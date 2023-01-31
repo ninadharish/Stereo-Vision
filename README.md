@@ -34,9 +34,9 @@ Given a set of 2 images of the same object from two different camera angles, thi
 
 * Using a sliding window approach, found the minimum of the Sum of Squared Distance for a specified window size in a single row and found window correspondences.
 
-* The disparity was found using thje difference in the pixel locations.
+* The disparity was found using the difference in the pixel locations.
 
-* The differences were sclaed between 0 - 255 and this was plotted on a grayscale image. Heatmap conversion of the disparity map was also displayed.
+* The differences were scaled between 0 - 255 and this was plotted on a grayscale image. Heatmap conversion of the disparity map was also displayed.
 
 * Based on the triangulation formula, the depth of the points was found and a similar grayscale was well as heat map was created.
 
